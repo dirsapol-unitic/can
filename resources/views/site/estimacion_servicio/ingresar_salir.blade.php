@@ -1,0 +1,17 @@
+<h2 align="center"><span class="c5 c2"><b>SISTEMA DE ABASTECIMIENTO - &nbsp;ICI</b></span></h2>
+		<p class="c0"><span class="c5 c2"><b>I.- Autenticaci&oacute;n de Usuario</b></span></p>
+		<p class="c3"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 400.50px; height: 279.86px;">
+			<img alt="" src='{{ asset ("/images/image20.jpg") }}' style="width: 400.50px; height: 279.86px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+		</span></p><br/>
+		<p class="c0"><span class="c1">En la parte superior izquierda encontrar&aacute; una barrita que nos ayudar&aacute; ampliar el &aacute;rea de trabajo, as&iacute; podemos ver de una manera m&aacute;s amplia el contenido del aplicativo.</span></p>
+		<p class="c3"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 269.50px; height: 126.82px;"><img alt="" src='{{ asset ("/images/image13.jpg") }}' style="width: 269.50px; height: 126.82px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+		<br/>
+		<p class="c0"><span class="c2"><b>Salir:</b></span><span class="c1">&nbsp;Haciendo clic en su nombre que se encuentra ubicado en la parte superior derecha, se desplegar&aacute; la opci&oacute;n de salir.Clic en el bot&oacute;n para salir del aplicativo. </span></p><p class="c3"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 229.50px; height: 226.27px;"><img alt="" src='{{ asset ("/images/image7.jpg") }}' style="width: 229.50px; height: 226.27px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+		<hr style="page-break-before:always;display:none;">
+		<p class="c0 c4"><span class="c1"></span></p>
+		<p><img alt="" src='{{ asset ("/images/image5.jpg") }}' style="width: 802.00px; height: 392.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></p>
+		<p class="c0"><span class="c1">Para entrar a llenar el ICI, se hara clic en el menu ubicado al lado izquierdo ya sea en medicamentos asi como en dispositivos,</span></p>
+		<p class="c0"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 802.00px; height: 264.67px;"><img alt="" src='{{ asset ("/images/image22.jpg") }}' style="width: 800.00px; height: 264.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+		<p class="c0"><span class="c1">Tambi&eacute;n podr&aacute;n hacer clic en los botones de color verde que indica que a&uacute;n se puede ingresar informaci&oacute;n.</span></p>
+		
+		
